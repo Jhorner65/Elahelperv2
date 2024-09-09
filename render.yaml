@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: Elahelper
+    env: docker
+    plan: free
